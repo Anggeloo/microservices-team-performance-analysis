@@ -1,0 +1,6 @@
+@microservices_team_performance_analysis_HostAddress = http://localhost:5299
+
+GET {{microservices_team_performance_analysis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
