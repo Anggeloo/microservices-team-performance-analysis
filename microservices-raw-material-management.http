@@ -1,0 +1,6 @@
+@microservices_raw_material_management_HostAddress = http://localhost:5002
+
+GET {{microservices_raw_material_management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

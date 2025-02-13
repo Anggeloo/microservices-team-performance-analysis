@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BGmqpEk7gpZrMNHjqzUKDxl/d5d7jsrRznXkyaneoLQ=",
+  "Source": "microservices-raw-material-management",
+  "BasePath": "_content/microservices-raw-material-management",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
