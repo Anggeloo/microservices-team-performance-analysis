@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\microservices-team-performance-analysis.props" />
-</Project>
